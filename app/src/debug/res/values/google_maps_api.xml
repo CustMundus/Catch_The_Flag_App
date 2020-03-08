@@ -1,0 +1,8 @@
+<resources>
+
+
+<!--    SHA-1 certificate fingerprint: -->
+<!--    D5:29:10:21:FF:39:75:55:88:3A:1C:33:EC:6C:5D:A1:7D:6F:BB:53-->
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAjZr08SdarBLIhjIZmnnZ-Lyv78YJVkCA</string>
+</resources>
